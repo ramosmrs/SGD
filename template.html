@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+<title>SIGRH-RJ</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/portal.css" rel="stylesheet" type="text/css" />
+
+<style>
+body
+{
+    font-family: arial,verdana,sans-serif;
+    font-size: 10pt;
+	margin-top: 0;
+	background-color: #ffffff
+}
+
+#inativo
+{
+    background-color: #E2EBED;
+    border-left: 2px solid white;
+    height: 20px;
+    padding-top: 5px;
+    padding-left: 4px;
+    margin-bottom: 2px;
+}
+
+#ativo
+{
+    background-color: #c0c0c0;
+    border-left: 2px solid red;
+    height: 20px;
+    padding-top: 5px;
+    padding-left: 4px;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+
+#pageheader
+{
+    border: none;
+    width: 950px;
+    height: 112px;
+    overflow: auto;
+    margin-bottom:0;
+}
+
+#pagebody
+{
+    background-color: white;
+    width:950px;
+    
+}
+
+#pageleft
+{
+    width:180;
+    margin-left: 0px;
+    margin-right: 0px;
+    float:left;
+    text-align:left;
+    border: 1px solid #000000;
+    font-size: 10pt;
+    font-family: arial,verdana,sans-serif;
+    font-weight: bold;
+}
+
+#pagecontent
+{
+    margin-right: 0px;
+    margin-left: 20px;
+    margin-top:0px;
+    width:960px;
+    
+    text-align:left;
+    color: #333333;
+}
+
+#pageboth
+{
+    clear:both;
+}
+</style>
+
+</head>
+
+<body>
+
+
+<!--Fecha HEADER--> 
+
+<!--CONTEUDO -->
+<table border="0" width="934" bgcolor="#FFFFFF" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+<td align="right">#USUARIO#</td>
+</tr>
+</table>
+
+<table width="968" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+   	<tr>
+		<td bgcolor="#FFFFFF">
+		<br><br>
+		<div id="pagebody">
+		    <div id="pageleft">
+
+		        <div id='inativo'
+		                OnMouseOver="this.id='ativo'" OnMouseOut="this.id='inativo'"
+		                OnClick="document.location='Controle/DemandaControle.php'">
+		        Demandas
+		        </div>
+		        <div id='inativo'
+		                OnMouseOver="this.id='ativo'" OnMouseOut="this.id='inativo'"
+		                OnClick="document.location='?class=DemandaControleFiltro'">
+		        Demandas por Usu�rio
+		        </div>
+		        <div id='inativo'
+		                OnMouseOver="this.id='ativo'" OnMouseOut="this.id='inativo'"
+		                OnClick="document.location='?class=UsuarioControle'">
+		        Usu�rios
+		        </div>
+<!--		        <div id='inativo'
+		                OnMouseOver="this.id='ativo'" OnMouseOut="this.id='inativo'"
+		                OnClick="document.location='?class=TipoUsuarioControle'">
+		        Tipos de Usuario
+		        </div>
+		        -->
+		        <div id='inativo'
+		                OnMouseOver="this.id='ativo'" OnMouseOut="this.id='inativo'"
+		                OnClick="document.location='?class=TipoDemandaControle'">
+		        Tipos de Demanda
+		        </div>
+<!-- 	        <div id='inativo'
+		                OnMouseOver="this.id='ativo'" OnMouseOut="this.id='inativo'"
+		                OnClick="document.location='?class=EquipeControle'">
+		        Equipes
+		        </div>
+	-->	        <div id='inativo'
+		                OnMouseOver="this.id='ativo'" OnMouseOut="this.id='inativo'"
+		                OnClick="document.location='?class=PrioridadeControle'">
+		        Prioridades
+		        </div>
+<!-- 		        <div id='inativo'
+		                OnMouseOver="this.id='ativo'" OnMouseOut="this.id='inativo'"
+		                OnClick="document.location='?class=FaseResolucaoControle'">
+		        Fases de Resolu��o
+		        </div>
+	-->	        <div id='inativo'
+		                OnMouseOver="this.id='ativo'" OnMouseOut="this.id='inativo'"
+		                OnClick="document.location='?class=SituacaoControle'">
+		        Situa��o
+		        </div>
+		    </div>
+		    
+		    <div id="pagecontent">
+		        #CONTENT#
+		    </div>
+		    
+		    <div id="pageboth"></div>
+		        
+		</div>
+		</td>
+	</tr>
+<tr><td><img src="images/spacer.gif" height=500 /></td> </tr>
+</table>
+
+<!-- Fecha CONTEUDO-->
+
+
+<!--FOOTER--> 
+
+
+<!--Fecha FOOTER-->   
+
+</body>
+
+</html>
+
+
+
+
+

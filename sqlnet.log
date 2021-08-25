@@ -1,0 +1,607 @@
+
+
+***********************************************************************
+Fatal NI connect error 12547, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 12-JUL-2011 16:27:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12547
+    TNS-12547: TNS:lost contact
+    ns secondary err code: 12560
+    nt main err code: 517
+    TNS-00517: Lost contact
+    nt secondary err code: 104
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 12-JUL-2011 16:27:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 12-JUL-2011 16:27:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 12-JUL-2011 16:27:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 19-AGO-2011 15:21:18
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 19-AGO-2011 15:21:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 19-AGO-2011 15:21:24
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 19-AGO-2011 15:21:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 07:14:34
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 07:16:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:07:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 08:31:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 12:52:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 12:52:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 12:52:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 12:52:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 12:53:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=ergon)(CID=(PROGRAM=httpd)(HOST=pombo.proderj.rj.gov.br)(USER=apache)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.9.41.19)(PORT=1530)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.2.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.2.0 - Production
+  Time: 17-SET-2013 13:02:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+    nt OS err code: 0

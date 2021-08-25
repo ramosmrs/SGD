@@ -1,0 +1,50 @@
+<?php
+
+class ConnOracle{
+
+// Atributo que armazena a conexão ao banco de dados.
+	private static $conexao = false;
+
+// Dados do servidor Tauoca(PRODUCAO):
+/*
+        private static $Servidor = '10.9.41.19:1530/ergon';
+        private static $Usuario  = 'demandas';
+        private static $Senha    = 'dmdprd15';
+*/
+// Dados do servidor Xicu(DESENVOLVIMENTO)
+        private static $Servidor = '10.9.42.19:1530/ergond';
+        private static $Usuario  = 'demandas';
+        private static $Senha    = 'dmddes09';
+        
+        
+// Método de construção da classe.
+// Ao ser instanciada, a classe automaticamente já se conecta ao banco, se já não houver nenhuma conexão.
+    public function __construct() {
+    	date_default_timezone_set( 'America/Sao_Paulo' );
+		return self::GetConn();
+	}
+
+// Método para conexão ao banco
+// Executado quando não existe uma instância da classe
+	public static function Conecta(){
+	    //Variáveis de ambiente:
+        putenv ( "NLS_LANG=portuguese_brazil.we8iso8859p1" );
+        PutEnv ( "ORACLE_SID=ergond" );
+        PutEnv ( "ORACLE_HOME=/home/oracle/product/10.2.0/db_1/" );
+        PutEnv ( "TNS_ADMIN=/home/oracle/product/10.2.0/db_1/network/admin" );
+        // Mensagens de erro:
+		$msg[0] = "Conexao com o banco falhou!";
+		$msg[1] = "Nao foi possivel selecionar o banco de dados!";
+	
+	    // Fazendo a conexao com o servidor Oracle. 
+		// O próprio OCI_CONNECT JÁ SE ENCARREGA DE MANTER UMA ÚNICA CONEXÃO, SENDO CHAMADO DESSA MANEIRA.
+		self::$conexao = oci_connect(self::$Usuario, self::$Senha, self::$Servidor);
+		return self::$conexao;
+	}
+	
+// Método que retorna o Atributo de conexão.
+	public static function GetConn(){
+	   return self::Conecta();
+	}
+}
+?>
