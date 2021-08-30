@@ -2,32 +2,32 @@
 
 class ConnOracle{
 
-// Atributo que armazena a conexão ao banco de dados.
+// Atributo que armazena a conexï¿½o ao banco de dados.
 	private static $conexao = false;
 
 // Dados do servidor Tauoca(PRODUCAO):
 /*
         private static $Servidor = '10.9.41.19:1530/ergon';
         private static $Usuario  = 'demandas';
-        private static $Senha    = 'dmdprd15';
+        private static $Senha    = 'senha';
 */
 // Dados do servidor Xicu(DESENVOLVIMENTO)
         private static $Servidor = '10.9.42.19:1530/ergond';
         private static $Usuario  = 'demandas';
-        private static $Senha    = 'dmddes09';
+        private static $Senha    = 'senha';
         
         
-// Método de construção da classe.
-// Ao ser instanciada, a classe automaticamente já se conecta ao banco, se já não houver nenhuma conexão.
+// Mï¿½todo de construï¿½ï¿½o da classe.
+// Ao ser instanciada, a classe automaticamente jï¿½ se conecta ao banco, se jï¿½ nï¿½o houver nenhuma conexï¿½o.
     public function __construct() {
     	date_default_timezone_set( 'America/Sao_Paulo' );
 		return self::GetConn();
 	}
 
-// Método para conexão ao banco
-// Executado quando não existe uma instância da classe
+// Mï¿½todo para conexï¿½o ao banco
+// Executado quando nï¿½o existe uma instï¿½ncia da classe
 	public static function Conecta(){
-	    //Variáveis de ambiente:
+	    //Variï¿½veis de ambiente:
         putenv ( "NLS_LANG=portuguese_brazil.we8iso8859p1" );
         PutEnv ( "ORACLE_SID=ergond" );
         PutEnv ( "ORACLE_HOME=/home/oracle/product/10.2.0/db_1/" );
@@ -37,12 +37,12 @@ class ConnOracle{
 		$msg[1] = "Nao foi possivel selecionar o banco de dados!";
 	
 	    // Fazendo a conexao com o servidor Oracle. 
-		// O próprio OCI_CONNECT JÁ SE ENCARREGA DE MANTER UMA ÚNICA CONEXÃO, SENDO CHAMADO DESSA MANEIRA.
+		// O prï¿½prio OCI_CONNECT Jï¿½ SE ENCARREGA DE MANTER UMA ï¿½NICA CONEXï¿½O, SENDO CHAMADO DESSA MANEIRA.
 		self::$conexao = oci_connect(self::$Usuario, self::$Senha, self::$Servidor);
 		return self::$conexao;
 	}
 	
-// Método que retorna o Atributo de conexão.
+// Mï¿½todo que retorna o Atributo de conexï¿½o.
 	public static function GetConn(){
 	   return self::Conecta();
 	}

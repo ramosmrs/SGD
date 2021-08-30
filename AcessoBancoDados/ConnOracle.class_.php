@@ -6,12 +6,12 @@ class ConnOracle{
 // Tauoca:
         private static $Servidor = '10.9.41.19:1530/ergon';
         private static $Usuario  = 'DEMANDAS';
-        private static $Senha    = 'DMDPRD15';
+        private static $Senha    = 'senha';
 
 // Xicu:
 /*      private static $Servidor = '10.9.42.19:1530/ergond';
         private static $Usuario  = 'DEMANDAS';
-        private static $Senha    = 'DMDDES09';
+        private static $Senha    = 'senha';
 */
 //local:
 /*	private static $Servidor = 'localhost:1521/xe';
